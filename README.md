@@ -3,7 +3,9 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:
++54 3513862868
+ulisespinus@gmail.com</h3>
 <p align="left">
 </p>
 
